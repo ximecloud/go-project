@@ -25,15 +25,6 @@ go-project/
 └── logs/
 ```
 
-## Features
-
-- Clean architecture implementation
-- User management functionality
-- Multiple database support (PostgreSQL, Redis)
-- Configurable logging system
-- HTTP request handling
-- Error management system
-
 ## Installation
 
 1. Clone the repository
